@@ -1,5 +1,4 @@
 import Button from "../button/button";
-import { useEffect } from 'react';
 import useTelegram from "../hooks/useTelegram";
 
 
